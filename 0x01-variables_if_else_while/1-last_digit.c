@@ -1,6 +1,6 @@
 /*
  *
- *  * File: 1-last_digit.c
+ *   File: 1-last_digit.c
  *
  *
  */
@@ -10,7 +10,6 @@
 #include <stdio.h>
 
 /**
- *
  * main - Prints the last digit of a randomly generated number
  *   and whether it is greater than 5, less than 6, or 0.
  *
